@@ -1,0 +1,6 @@
+function math(){
+x = 4;
+y = 10;
+z = 2;
+console.log(x*y+z*100/x);
+}
